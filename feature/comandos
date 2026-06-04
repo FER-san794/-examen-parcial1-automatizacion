@@ -1,0 +1,5 @@
+git init - Inicializa un repositorio
+git add - Agrega archivos al staging
+git commit - Guarda cambios
+git push - Sube cambios al repositorio remoto
+git pull - Actualiza el repositorio local
