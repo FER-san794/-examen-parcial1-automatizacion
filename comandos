@@ -1,0 +1,5 @@
+echo "git init - Inicializa un repositorio" 
+echo "git add - Agrega archivos al staging" 
+echo "git commit - Guarda cambios" 
+echo "git push - Sube cambios al remoto" 
+echo "git pull - Actualiza repositorio local" 
